@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textviewWidth">125dp</dimen>
+    <dimen name="tvHeight">55dp</dimen>
+</resources>
