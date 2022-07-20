@@ -21,7 +21,8 @@ class MainActivity : AppCompatActivity() {
 
             }
             binding.btnDisplay.setOnClickListener(){
-                student.programme = "RIS"
+                var student2 :Student = Student("Uwu", 500, "RIS")
+                binding.myData = student2
 
                 binding.apply {
                   invalidateAll()
